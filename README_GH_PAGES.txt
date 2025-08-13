@@ -1,0 +1,1 @@
+Bundle GitHub Pages prêt : déposer ces fichiers à la racine du dépôt.
